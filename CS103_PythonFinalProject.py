@@ -2,8 +2,8 @@ import math
 
 print ("==Welcome to Calculations of Areas==")
 print ("1. Area of a Triangle")
-print ("2. Area of a Triangle")
-print ("3. Area of a Triangle")
+print ("2. Area of a Rectangle")
+print ("3. Area of a Circle")
 
 choice = input("From numbers 1-3, select your number: ")
 
